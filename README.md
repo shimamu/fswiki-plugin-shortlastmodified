@@ -8,6 +8,6 @@ Show last modified date time(at short format) on FreeStyle Wiki like below.
 
 ## How to install
 
-1. Put 'plugin' folder in fswiki folder.
+1. Put 'plugin' folder on fswiki folder.
 2. Set plugin 'shortlastmodified' active in admin menu.
 
