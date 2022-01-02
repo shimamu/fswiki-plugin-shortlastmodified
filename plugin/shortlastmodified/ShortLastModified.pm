@@ -44,7 +44,7 @@ sub inline {
 
 #===============================================================================
 # <p>
-#   日付を&quot;yyyy/mm/dd hh:mm&quot;形式にフォーマットします。
+#   日付を&quot;yyyy.mm.dd hh:mm&quot;形式にフォーマットします。
 # </p>
 # <pre>
 # my $date = Util::format_date(time());
