@@ -2,7 +2,8 @@
 
 ## What is this?
 
-Show last modified date time(at short format) on FreeStyle Wiki like below.
+Plugin for [FreeStyle Wiki](http://fswiki.osdn.jp/cgi-bin/wiki.cgi).
+Show last modified date time(at short format)  like below.
 
 ![screenshot](https://raw.githubusercontent.com/shimamu/fswiki-plugin-shortlastmodified/main/images/screenshot.png "screenshot")
 
